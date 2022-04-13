@@ -1,0 +1,6 @@
+[submodule "git-submodules/tiny-dnn"]
+	path = git-submodules/tiny-dnn
+	url = git@github.com:tiny-dnn/tiny-dnn.git
+[submodule "git-submodules/opencv"]
+	path = git-submodules/opencv
+	url = git@github.com:opencv/opencv.git
